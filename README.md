@@ -6,7 +6,7 @@ Frontend Developer | AI/ML Enthusiast | Embedded Systems Developer
 -----------------------------------
 ### I deBug!!
 * 🌍  I'm based in India
-* Interested in Security
+* Interested in Developing Ml Models
 
 📫 How to reach me:
 <div align="center"> 
