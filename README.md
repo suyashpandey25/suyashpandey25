@@ -2,7 +2,7 @@
     <img src="https://readme-typing-svg.herokuapp.com/?font=Righteous&size=35&center=true&vCenter=true&width=500&height=70&duration=4000&lines=Hi+There!+👋;+I'm+Suyash+Pandey!;" />
 </h1>
 
-Software Engineer | Embedded Systems Developer | Java Developer
+Frontend Developer | AI/ML Enthusiast | Embedded Systems Developer 
 -----------------------------------
 ### I deBug!!
 * 🌍  I'm based in India
